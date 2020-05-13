@@ -1,0 +1,4 @@
+Ceci est un texte de documentation du projet, il est sûrement très intéressant.
+
+
+Ce notebook calcule la moyenne, l'écart type et fait un graphe de données fictives
